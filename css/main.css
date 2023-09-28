@@ -86,6 +86,14 @@ canvas {
     margin: 0;
     font:normal 75% Arial, Helvetica, sans-serif;
   }
+
+  .icon-yeetum {
+    display: inline-block;
+    width: 24px; /* Or the width you desire */
+    height: 24px; /* Or the height you desire */
+    background: url('/img/yeetum.svg') center/contain no-repeat;
+  }
+
   
 
   
